@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.18)  26 JUL 2023 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.18)  26 JUL 2023 20:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Ahmed/Desktop/VS CODE/LaTex/tossstrrrr/TOSR.tex"
-(c:/Users/Ahmed/Desktop/VS CODE/LaTex/tossstrrrr/TOSR.tex
+**"c:/Users/Ahmed/Desktop/VS CODE/LaTex/PDE/TOSR/TOSR.tex"
+(c:/Users/Ahmed/Desktop/VS CODE/LaTex/PDE/TOSR/TOSR.tex
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
 (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -867,28 +867,28 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@zref@counter=\count367
 Package zref Info: New property: mdf@pagevalue on input line 895.
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 28.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 29.
  (TOSR.aux)
 \openout1 = `TOSR.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count368
@@ -908,7 +908,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 29.
  (TOSR.out) (TOSR.out)
 \@outlinefile=\write5
 \openout5 = `TOSR.out'.
@@ -953,15 +953,15 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 28.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 39.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 29.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 40.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <Cover.png, id=134, 614.295pt x 794.97pt>
 File: Cover.png Graphic file (type png)
 <use Cover.png>
-Package pdftex.def Info: Cover.png  used on input line 50.
+Package pdftex.def Info: Cover.png  used on input line 51.
 (pdftex.def)             Requested size: 767.86685pt x 993.71007pt.
  [1
 
@@ -973,73 +973,73 @@ Package pdftex.def Info: Cover.png  used on input line 50.
 <spacetimefabric.jpg, id=215, 4284.005pt x 2409.0pt>
 File: spacetimefabric.jpg Graphic file (type jpg)
 <use spacetimefabric.jpg>
-Package pdftex.def Info: spacetimefabric.jpg  used on input line 73.
+Package pdftex.def Info: spacetimefabric.jpg  used on input line 74.
 (pdftex.def)             Requested size: 169.62154pt x 95.3511pt.
 
-Underfull \hbox (badness 1019) in paragraph at lines 79--79
+Underfull \hbox (badness 1019) in paragraph at lines 80--80
 \T1/lmr/m/n/10 as grav-ity. Ob-jects move along the curved paths
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 79--79
+Underfull \hbox (badness 2181) in paragraph at lines 80--80
 \T1/lmr/m/n/10 dic-tated by this ge-om-e-try. The the-ory pro-vides
  []
 
 [2 <./spacetimefabric.jpg>]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 95.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 95.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 95.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 95.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 95.
+(Font)              <10> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 95.
+(Font)              <7> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 95.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
+(Font)              <5> on input line 96.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 95.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 96.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Underfull \hbox (badness 1168) in paragraph at lines 125--128
+Underfull \hbox (badness 1168) in paragraph at lines 126--129
 \T1/lmr/m/n/10 and physi-cist who made sig-nif-i-cant con-tri-bu-tions to the sci-en-tific
  []
 
 <galilio.jpg, id=224, 803.0pt x 1019.81pt>
 File: galilio.jpg Graphic file (type jpg)
 <use galilio.jpg>
-Package pdftex.def Info: galilio.jpg  used on input line 128.
+Package pdftex.def Info: galilio.jpg  used on input line 129.
 (pdftex.def)             Requested size: 68.28644pt x 86.7216pt.
 
-Overfull \hbox (1.51756pt too wide) in paragraph at lines 128--128
+Overfull \hbox (1.51756pt too wide) in paragraph at lines 129--129
 [][] 
  []
 
 [3{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./galilio.jpg>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 137.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 138.
  (C:\Users\Ahmed\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 152--154
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
 
  []
 
@@ -1047,27 +1047,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--154
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.260 \begin{equation}
+l.261 \begin{equation}
                        [5]
 <Lorentz.jpg, id=261, 281.05pt x 397.485pt>
 File: Lorentz.jpg Graphic file (type jpg)
 <use Lorentz.jpg>
-Package pdftex.def Info: Lorentz.jpg  used on input line 319.
+Package pdftex.def Info: Lorentz.jpg  used on input line 320.
 (pdftex.def)             Requested size: 68.28644pt x 96.57498pt.
 
-Overfull \hbox (1.51756pt too wide) in paragraph at lines 319--319
+Overfull \hbox (1.51756pt too wide) in paragraph at lines 320--320
 [][] 
  []
 
 [6 <./Lorentz.jpg>] [7]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 393.
+(mdframed)              on input line 394.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 396.
+(mdframed)              on input line 397.
 
-Overfull \hbox (2.82994pt too wide) in paragraph at lines 400--405
+Overfull \hbox (2.82994pt too wide) in paragraph at lines 401--406
 \T1/lmr/m/n/10 let two events oc-cur si-mul-ta-ne-ously in $\OML/lmm/m/it/10 S$ \T1/lmr/m/n/10 at two dif-fer-ent points $\OML/lmm/m/it/10 P[]\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x[]; y[]; z[]; t[]\OT1/lmr/m/n/10 )$ \T1/lmr/m/n/10 and $\OML/lmm/m/it/10 P[]\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x[]; y[]; z[]; t[]\OT1/lmr/m/n/10 )$
  []
 
@@ -1075,74 +1075,74 @@ Overfull \hbox (2.82994pt too wide) in paragraph at lines 400--405
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.455     \begin{equation}
+l.456     \begin{equation}
                           
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.459     \begin{equation}
+l.460     \begin{equation}
                           
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.463     \begin{equation}
+l.464     \begin{equation}
                           
 pdfTeX warning (ext4): destination with the same identifier (name{equation.3.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.466     \begin{equation}
+l.467     \begin{equation}
                            [9]
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
 
  []
 
 [10]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 569.
+(Font)              <9> on input line 570.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 569.
+(Font)              <6> on input line 570.
  [11] [12]
-Overfull \hbox (5.45526pt too wide) in paragraph at lines 708--710
+Overfull \hbox (5.45526pt too wide) in paragraph at lines 709--711
 \T1/lmr/m/n/10 i.e. the ve-loc-ity com-po-nents $\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 u[]; u[]; u[]\OT1/lmr/m/n/10 )$ \T1/lmr/m/n/10 rep-re-sent the re-sult of com-pound-ing the ve-loc-ity $\OT1/lmr/m/n/10 (\OML/lmm/m/it/10 u[]; u[]; u[]\OT1/lmr/m/n/10 )$
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 730--734
+Underfull \hbox (badness 10000) in paragraph at lines 731--735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 730--734
+Underfull \hbox (badness 10000) in paragraph at lines 731--735
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 736--740
+Underfull \hbox (badness 10000) in paragraph at lines 737--741
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 789--794
+Underfull \hbox (badness 10000) in paragraph at lines 790--795
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--794
+Underfull \hbox (badness 10000) in paragraph at lines 790--795
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--794
+Underfull \hbox (badness 10000) in paragraph at lines 790--795
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--794
+Underfull \hbox (badness 10000) in paragraph at lines 790--795
 
  []
 
 [15] [16] [17] [18]
-Overfull \hbox (24.1159pt too wide) detected at line 977
+Overfull \hbox (24.1159pt too wide) detected at line 978
 \OML/lmm/m/it/10 f[] \OT1/lmr/m/n/10 = []  \OML/lmm/m/it/10 ;   f[] \OT1/lmr/m/n/10 = [] []   \OML/lmm/m/it/10 ;   f[] \OT1/lmr/m/n/10 = [] []
  []
 
@@ -1150,68 +1150,68 @@ Overfull \hbox (24.1159pt too wide) detected at line 977
 <Einstein.jpg, id=361, 941.01563pt x 940.26282pt>
 File: Einstein.jpg Graphic file (type jpg)
 <use Einstein.jpg>
-Package pdftex.def Info: Einstein.jpg  used on input line 1175.
+Package pdftex.def Info: Einstein.jpg  used on input line 1176.
 (pdftex.def)             Requested size: 85.35826pt x 85.27997pt.
 
-Overfull \hbox (6.80699pt too wide) in paragraph at lines 1175--1175
+Overfull \hbox (6.80699pt too wide) in paragraph at lines 1176--1176
 [][] 
  []
 
 [23 <./Einstein.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1186--1188
+Underfull \hbox (badness 10000) in paragraph at lines 1187--1189
 
  []
 
 [24] [25]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 1333.
+(Font)              <8> on input line 1334.
  [26] [27] [28] [29] [30]
-Underfull \hbox (badness 1043) in paragraph at lines 1567--1569
+Underfull \hbox (badness 1043) in paragraph at lines 1568--1570
 \T1/lmr/m/n/10 is now known as La-grangian me-chan-ics. This ground-break-ing
  []
 
 <Lagrange.jpg, id=414, 324.21124pt x 421.575pt>
 File: Lagrange.jpg Graphic file (type jpg)
 <use Lagrange.jpg>
-Package pdftex.def Info: Lagrange.jpg  used on input line 1569.
+Package pdftex.def Info: Lagrange.jpg  used on input line 1570.
 (pdftex.def)             Requested size: 85.35826pt x 110.98994pt.
 
-Overfull \hbox (6.80699pt too wide) in paragraph at lines 1569--1569
+Overfull \hbox (6.80699pt too wide) in paragraph at lines 1570--1570
 [][] 
  []
 
 [31 <./Lagrange.jpg>]
-Underfull \hbox (badness 1253) in paragraph at lines 1598--1600
+Underfull \hbox (badness 1253) in paragraph at lines 1599--1601
 \T1/lmr/m/n/10 of com-plex num-bers, and they played a cru-cial role in ad-vanc-ing
  []
 
 <Hamilton.png, id=419, 374.39874pt x 513.92pt>
 File: Hamilton.png Graphic file (type png)
 <use Hamilton.png>
-Package pdftex.def Info: Hamilton.png  used on input line 1600.
+Package pdftex.def Info: Hamilton.png  used on input line 1601.
 (pdftex.def)             Requested size: 62.59596pt x 85.92235pt.
 
-Overfull \hbox (3.684pt too wide) in paragraph at lines 1600--1600
+Overfull \hbox (3.684pt too wide) in paragraph at lines 1601--1601
 [][] 
  []
 
 [32 <./Hamilton.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1679
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1679
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1679
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1659--1679
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1680
 
  []
 
@@ -1220,17 +1220,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 1659--1679
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-05>
  ***********
-Package rerunfilecheck Info: File `TOSR.out' has not changed.
-(rerunfilecheck)             Checksum: 1220AAEDBFF4582207BA2FB77BFDB789;5624.
+
+
+Package rerunfilecheck Warning: File `TOSR.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TOSR.out':
+(rerunfilecheck)             Before: 5FFF12E87E45FD56AC4A042E58D2F645;5656
+(rerunfilecheck)             After:  1220AAEDBFF4582207BA2FB77BFDB789;5624.
  ) 
 Here is how much of TeX's memory you used:
  32390 strings out of 476048
- 664062 string characters out of 5780228
+ 664040 string characters out of 5780228
  1883753 words of memory out of 5000000
  52416 multiletter control sequences out of 15000+600000
  605041 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,15n,92p,1243b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,15n,92p,1241b,1135s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Ahmed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam5.pfb>
 Output written on TOSR.pdf (34 pages, 7532873 bytes).
 PDF statistics:
